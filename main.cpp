@@ -1,6 +1,7 @@
 // pong.cpp
 
 #include <iostream>
+#include <stdafx.h>
 #include "Game.h"
 
 int _tmain(int argc, _TCHAR* argv[])
